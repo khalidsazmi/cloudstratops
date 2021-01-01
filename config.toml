@@ -1,5 +1,5 @@
-title = "Notre-Dame de Paris"
-baseURL = "https://example.com"
+title = "CloudStratOps"
+baseURL = "http://cloudstratops.com"
 languageCode = "en-us"
 theme = "ananke"
 
